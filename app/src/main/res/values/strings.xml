@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyExchange</string>
+    <string name="top_bar_title">Currency Exchange</string>
+    <string name="top_bar_description">NBP average exchange rates</string>
+    <string name="unkown_error_msg">Something went wrong</string>
+    <string name="current_average_rate">Current average rate</string>
+    <string name="last_two_weeks">Last two weeks</string>
+    <string name="retry">Retry</string>
+</resources>
